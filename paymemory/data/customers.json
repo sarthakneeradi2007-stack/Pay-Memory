@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Ravi Kumar",
+    "company": "Ravi Traders, Hyderabad",
+    "invoice": {"id": "INV-2041", "amount": 48500, "due_date": "2026-09-05", "days_overdue": 24},
+    "history": [
+      "On 2026-03-10, Ravi Kumar of Ravi Traders was sent a formal email reminder for invoice INV-1620 (Rs 32,000). He did not reply.",
+      "On 2026-03-14, a short WhatsApp message to Ravi Kumar got a reply within 10 minutes; he promised to pay by Friday 2026-03-20.",
+      "On 2026-03-20, Ravi Kumar broke his promise and did not pay INV-1620. He paid 9 days later, on 2026-03-29, after a second WhatsApp nudge.",
+      "On 2026-06-02, Ravi Kumar promised to pay INV-1788 (Rs 41,000) by the 12th, then paid on the 25th. He tends to promise specific dates and slip by one to two weeks.",
+      "Ravi Kumar responds to short, friendly WhatsApp messages and ignores long formal emails. Pressure or threats make him go silent.",
+      "On 2026-08-01, offering Ravi Kumar a two-part payment split for INV-1901 worked: he paid half immediately and half within a week."
+    ]
+  },
+  {
+    "name": "Meera Nair",
+    "company": "Meera Interiors, Bengaluru",
+    "invoice": {"id": "INV-2055", "amount": 92000, "due_date": "2026-09-10", "days_overdue": 19},
+    "history": [
+      "Meera Nair of Meera Interiors has paid every invoice so far, typically 2 to 4 days after a polite email reminder.",
+      "On 2026-05-05, a phone call to Meera Nair annoyed her; she said she prefers everything in writing by email.",
+      "Meera Nair pays via bank transfer and usually sends a screenshot confirmation the same day.",
+      "On 2026-07-18, Meera Nair was 6 days late on INV-1850 because her accountant was on leave; she apologised and paid the same afternoon after a gentle email.",
+      "Meera Nair values courtesy and is a high-value long-term client, so avoid firm or pushy language."
+    ]
+  },
+  {
+    "name": "Kiran Reddy",
+    "company": "Kiran Electronics Pvt Ltd, Secunderabad",
+    "invoice": {"id": "INV-2063", "amount": 126000, "due_date": "2026-08-28", "days_overdue": 32},
+    "history": [
+      "Kiran Reddy of Kiran Electronics has ignored 3 email reminders and 2 WhatsApp messages across the last two invoices.",
+      "On 2026-04-11, a phone call to Kiran Reddy before 11 AM worked: he paid INV-1544 (Rs 74,000) the same day.",
+      "On 2026-06-20, Kiran Reddy did not answer messages for 3 weeks, then paid within hours of a morning phone call.",
+      "Kiran Reddy is usually unavailable in the afternoon; calls between 9 and 11 AM reach him.",
+      "Kiran Reddy has never formally disputed an invoice; the delays look like inattention, not unwillingness."
+    ]
+  },
+  {
+    "name": "Anita Sharma",
+    "company": "Sunrise Logistics, Vijayawada",
+    "invoice": {"id": "INV-2070", "amount": 67000, "due_date": "2026-09-01", "days_overdue": 28},
+    "history": [
+      "On 2026-07-05, Anita Sharma of Sunrise Logistics disputed INV-1877, saying 3 of the delivered units arrived damaged.",
+      "On 2026-07-12, a credit note of Rs 6,500 was issued to Anita Sharma; she paid the remaining amount within 2 days.",
+      "Anita Sharma pays quickly once a dispute is resolved in writing, and dislikes being reminded while a dispute is open.",
+      "On 2026-08-20, Anita Sharma said INV-2070 is on hold until proof of delivery is shared; the proof of delivery has not been sent yet.",
+      "Anita Sharma responds best to emails that include documents (delivery proof, credit notes) and a clear next step."
+    ]
+  }
+]
